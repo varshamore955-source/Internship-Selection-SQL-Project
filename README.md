@@ -1,4 +1,4 @@
-# Internship-Selection-SQL-Project
+
 
 # Internship Selection SQL Project
 
